@@ -30,7 +30,7 @@
         },
         "info": {
             "type": "string",
-            "maxLength": 50
+            "maxLength": 70
         },
         "status": {
             "type": "string",
